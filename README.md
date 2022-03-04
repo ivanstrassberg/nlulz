@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning general basics of web development
 - 💞️ I’m looking to collaborate on anything I can to get experience
 - 📫 How to reach me: twitter: https://twitter.com/nlulzx
--                     discord: lulzNX #8135
+                      discord: lulzNX #8135
 
 <!---
 nlulz/nlulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
